@@ -1,0 +1,4 @@
+{
+  "APP_URL": "http://localhost:4444/app/",
+  "CONVERT_TO_CENTIGRADE_API" : "api/conversion/toCentigrade/"
+}

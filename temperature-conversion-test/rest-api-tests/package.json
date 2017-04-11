@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "name": "chakram-rest-api-test",
+  "description": "sample code for rest api testing using chakram/mocha/chai",
+  "keywords": [
+    "testing",
+    "chakram",
+    "rest-api-testing"
+  ],
+  "preferGlobal": true,
+  "homepage": "http://www.github.com/jagdeepjain/",
+  "author": "Jagdeep Jain <jagdeep.jain@gmail.com> (http://www.jagdeepjain.net/blog)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jagdeepjain/chakram-example"
+  },
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "chakram": "^1.5.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.1",
+    "grunt-mocha-test": "^0.13.2",
+    "mocha": "^3.2.0",
+    "nexpect": "~0.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jagdeepjain/chakram-exmple/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT"
+}

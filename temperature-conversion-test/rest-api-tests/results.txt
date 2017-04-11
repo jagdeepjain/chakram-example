@@ -1,0 +1,5 @@
+1..1
+ok 1 Temperature conversion should convert fahrenheit to centigrade
+# tests 1
+# pass 1
+# fail 0
